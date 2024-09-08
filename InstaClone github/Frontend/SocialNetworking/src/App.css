@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    height: 90px;
+    background-color: rgb(13, 13, 13);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logoapp{
+    height: 50px;
+    width: 80px;
+    margin-left: 20px;
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+li{
+    list-style: none;
+    padding: 8px;
+}
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+    background-color: rgb(13, 13, 13);
+    text-align: center;
+    border-radius: 20px;
+}
+.formin{
+    margin-top: 10px;
+
+    height: 250px;
+    width: 400px;
+    background-color: rgb(13, 13, 13);
+    text-align: center;
+    border-radius: 20px;
+}
+input{
+    height: 35px;
+    width: 250px;
+    margin:20px ;
+}
+h1{
+    text-align: center;
+}
+span{
+    position: relative;
+    top: 5px;
+}
